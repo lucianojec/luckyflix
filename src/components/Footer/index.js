@@ -4,9 +4,11 @@ import { FooterBase } from './styles';
 function Footer() {
   return (
     <FooterBase>
-      <a href="https://www.alura.com.br/">
+      <a href="/">
         <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
+        {/* <img src="../../assets/img/LogoRodape.png" alt="Logo Luckyflix" /> */}
       </a>
+
       <p>
         Criado por <a href="https://github.com/lucianojec">Luciano Oliveira</a> durante a
         {' '}
