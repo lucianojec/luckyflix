@@ -66,28 +66,6 @@
       ]
     },
     {
-      "titulo": "Canais de Comédia",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Irineu Nicoletti",
-          "url": "https://www.youtube.com/watch?v=Abr6Zy7Tt7E"
-        },
-        {
-          "titulo": "Pretinho Básico",
-          "url": "https://www.youtube.com/watch?v=4THSFXKzaLc"
-        },
-        {
-          "titulo": "Caixa Preta",
-          "url": "https://www.youtube.com/watch?v=kvxLuIrihNk"
-        },
-        {
-          "titulo": "Pânico Jovem Pan",
-          "url": "https://www.youtube.com/watch?v=y76Zxyff4Ik"
-        }
-      ]
-    },
-    {
       "titulo": "Data Science e Inteligência Artificial",
       "cor": "#9cd33b",
       "link_extra": {
@@ -113,7 +91,28 @@
         }
       ]
     },
-    
+    {
+      "titulo": "Canais de Comédia",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Irineu Nicoletti",
+          "url": "https://www.youtube.com/watch?v=Abr6Zy7Tt7E"
+        },
+        {
+          "titulo": "Pretinho Básico",
+          "url": "https://www.youtube.com/watch?v=4THSFXKzaLc"
+        },
+        {
+          "titulo": "Caixa Preta",
+          "url": "https://www.youtube.com/watch?v=kvxLuIrihNk"
+        },
+        {
+          "titulo": "Pânico Jovem Pan",
+          "url": "https://www.youtube.com/watch?v=y76Zxyff4Ik"
+        }
+      ]
+    },
     {
       "titulo": "Games",
       "cor": "red",
