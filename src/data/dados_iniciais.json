@@ -2,12 +2,12 @@
   "categorias": [
     {
       "titulo": "Series",
-      "link": "https://www.youtube.com/watch?v=ceqOTZnhgY8",
+      "link": "https://www.youtube.com/watch?v=ceqOTZnhgY8&feature=emb_logo",
       "cor": "#6BD1FF",
       "videos": [
         {
           "titulo": "Breaking Bad",
-          "url": "https://www.youtube.com/watch?v=ceqOTZnhgY8"
+          "url": "https://www.youtube.com/watch?v=ceqOTZnhgY8&feature=emb_logo"
         },
         {
           "titulo": "Modern Family",
